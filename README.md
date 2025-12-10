@@ -17,21 +17,21 @@
 
 <p align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natadevm&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=natadevm&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=natadevm&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -62,9 +62,9 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM"><img height="35" src="https://skillicons.dev/icons?i=telegram" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img height="35" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail" /></a>
+
+  <a href="https://www.linkedin.com/in/natnael-hailu-b60438376"><img height="35" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:natihailug@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
