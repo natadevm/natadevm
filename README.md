@@ -22,11 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natadevm&show_icons=true&locale=en" alt="natadevm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natadevm&" alt="natadevm" /></p>
-<p align="center">
-  <a href="https://github.com/natadevm/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=natadevm&theme=light&hide_border=true&background=0D1117&stroke=0000"/>
-  </a>
-</p>
 
 
 
