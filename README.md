@@ -23,8 +23,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natadevm&" alt="natadevm" /></p>
 <p align="center">
-  <a href="https://github.com/EphriamHab/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EphriamHab&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <a href="https://github.com/natadevm/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=natadevm&theme=light&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
 
