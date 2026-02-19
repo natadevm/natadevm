@@ -55,24 +55,6 @@ Hi 👋 I'm **Natnael Hailu**
 
 ---
 
-# 📊 GitHub Stats
 
-<!-- Main Stats -->
-![](https://github-readme-stats.vercel.app/api?username=natadevm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<!-- Streak Stats -->
-![](https://streak-stats.demolab.com?user=natadevm&theme=tokyonight&hide_border=true)
 
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=natadevm&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
----
-
-# 🔥 Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=natadevm&theme=tokyo-night)
-
----
-
-### 👀 Profile Views
-![](https://visitcount.itsvg.in/api?id=natadevm&icon=5&color=6)
