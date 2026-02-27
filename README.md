@@ -54,6 +54,13 @@ Hi 👋 I'm **Natnael Hailu**
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=natadevm&theme=dark&hide_border=true&background=0D1117&stroke=0000"
+    alt="GitHub Streak"
+    />
+</p>
+
 
 
 
